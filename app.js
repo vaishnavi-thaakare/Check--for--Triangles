@@ -10,6 +10,7 @@ function sumOfAngles(p,q,r){
     console.log(sum);
     if (sum==180){
         outputDiv.innerText=("Yah ! We can form a triangle")
+        
     }else{
         outputDiv.innerText=("Oh no! we can't form a triangle!")
     }  
